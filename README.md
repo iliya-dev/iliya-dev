@@ -1,7 +1,6 @@
 # Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-I Love Web FullStack Developer
+.net 
 
 <a href="https://t.me/iliya-dev">
   <img align="left" alt="iliya-dev" src="https://img.shields.io/badge/telegram-informational?style=flat&logo=telegram&logoColor=white&color=informational" />
